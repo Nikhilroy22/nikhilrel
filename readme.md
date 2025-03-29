@@ -12,6 +12,8 @@ keytool -genkey -v -keystore my-release-key.jks -keyalg RSA -keysize 2048 -valid
 apksigner sign --ks my-release-key.jks --out signed.apk app-release-unsigned.apk
 
 
+//git
+
 
 
 
