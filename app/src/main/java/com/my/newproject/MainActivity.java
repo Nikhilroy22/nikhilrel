@@ -24,7 +24,7 @@ public class MainActivity extends Activity {
     button1 = findViewById(R.id.button1);
     
 
-				txt.setText("niloy babu");
+				txt.setText("niloy babu amr cjele");
 
 		
 		button1.setOnClickListener(new View.OnClickListener() {
