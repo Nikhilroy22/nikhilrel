@@ -1,4 +1,4 @@
-package com.my.newproject;
+package com.npuja.nikhil;
 
 import android.app.AlertDialog;
 import android.content.DialogInterface;
